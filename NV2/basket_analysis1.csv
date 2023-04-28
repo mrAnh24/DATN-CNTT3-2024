@@ -1,0 +1,16 @@
+Apple,Bread,Butter,Cheese,Corn,Dill,Eggs,IceCream
+ ,Bread, , ,Corn,Dill, ,IceCream
+ , , ,Cheese, , , , 
+Apple, ,Butter, , ,Dill, ,IceCream
+ , ,Butter,Cheese, ,Dill, , 
+Apple,Bread, , , , , , 
+Apple,Bread,Butter,Cheese, ,Dill, ,IceCream
+ , ,Butter, , , ,Eggs,IceCream
+Apple, , ,Cheese, , ,Eggs, 
+Apple, , , ,Corn,Dill,Eggs,IceCream
+Apple, , , , ,Dill,Eggs,IceCream
+Apple,Bread, ,Cheese, , , ,IceCream
+Apple,Bread, ,Cheese, ,Dill,Eggs,IceCream
+ ,Bread, , ,Corn, , , 
+ , ,Butter, , ,Dill, ,IceCream
+ , ,Butter, , , , , 

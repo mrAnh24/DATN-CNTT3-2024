@@ -1,0 +1,3 @@
+sử dụng vòng lặp for duyệt giá trị True  False theo từng cột file csv (sử dụng ReadAllLines) C#
+
+sử dụng tên cột để thay vào giá trị TRUE và bỏ giá trị FALSE

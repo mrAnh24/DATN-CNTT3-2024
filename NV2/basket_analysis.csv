@@ -1,0 +1,1000 @@
+APPLE,BREAD,BUTTER,CHEESE,CORN,DILL,EGGS,ICE CREAM,KIDNEY BEANS,MILK,NUTMEG,ONION,SUGAR,UNICORN,YOGURT,CHOCOLATE
+ ,Bread, , ,Corn,Dill, ,IceCream, , , , ,Sugar, , Yogurt, Chocolate
+ , , , , , , , , ,Milk, , , , , , 
+Apple, ,Butter, , ,Dill, ,IceCream, ,Milk, , , , , Yogurt, Chocolate
+ , ,Butter,Cheese, ,Dill, , , ,Milk,Nutmeg,Onion, , , , 
+Apple,Bread, , , , , , , , , , , , , , 
+Apple,Bread,Butter,Cheese, ,Dill, ,IceCream, , ,Nutmeg, , , Unicorn, Yogurt, Chocolate
+ , ,Butter, , , ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , , Yogurt, 
+Apple, , ,Cheese, , ,Eggs, , , ,Nutmeg, ,Sugar, , Yogurt, 
+Apple, , , ,Corn,Dill,Eggs,IceCream, ,Milk,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , , , ,Dill,Eggs,IceCream, ,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+Apple,Bread, ,Cheese, , , ,IceCream, , , , ,Sugar, Unicorn, , 
+Apple,Bread, ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ , , , , , , , , , , ,Onion, , Unicorn, , Chocolate
+ , , , , , , ,IceCream, , , , ,Sugar, , Yogurt, 
+ , ,Butter, , , , , ,KidneyBeans, , , , , , , 
+ , , , , , , , , , , , , , , Yogurt, 
+Apple,Bread,Butter,Cheese, , , ,IceCream, , ,Nutmeg, ,Sugar, , , 
+Apple, , , , , ,Eggs, , , , , , , , Yogurt, Chocolate
+ ,Bread, ,Cheese, , , , ,KidneyBeans, , , ,Sugar, , , 
+ ,Bread, , ,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , 
+Apple, , ,Cheese, , , ,IceCream, , , , ,Sugar, Unicorn, , 
+Apple, ,Butter,Cheese, , , , ,KidneyBeans, , , , , Unicorn, Yogurt, 
+ ,Bread, ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans,Milk, , , , Unicorn, Yogurt, Chocolate
+ ,Bread,Butter,Cheese, , ,Eggs,IceCream,KidneyBeans, , , ,Sugar, Unicorn, , Chocolate
+ ,Bread, , ,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, 
+ ,Bread,Butter, , , ,Eggs, , ,Milk, , , , , Yogurt, Chocolate
+ ,Bread,Butter,Cheese,Corn, , , ,KidneyBeans,Milk, , , , Unicorn, , Chocolate
+ ,Bread,Butter, , , , , , , , , , , , , 
+ ,Bread,Butter, , , , , ,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, Chocolate
+Apple,Bread, , , , , ,IceCream, , , ,Onion, , , Yogurt, 
+ , , , ,Corn,Dill, , , ,Milk, , , , Unicorn, , Chocolate
+Apple,Bread,Butter, , ,Dill, , , ,Milk, , , , Unicorn, Yogurt, 
+ , , ,Cheese, , ,Eggs, ,KidneyBeans, , , , , , , 
+ , , , , ,Dill, , , ,Milk,Nutmeg, ,Sugar, , , 
+ ,Bread, , , ,Dill, ,IceCream, , , ,Onion, , , , Chocolate
+ , , ,Cheese, ,Dill,Eggs, , , , ,Onion, , Unicorn, , Chocolate
+Apple, , ,Cheese,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , , , ,Corn, ,Eggs,IceCream, ,Milk,Nutmeg, , , , , Chocolate
+ , ,Butter, , , , , ,KidneyBeans, , , ,Sugar, , , 
+ ,Bread, ,Cheese,Corn, ,Eggs,IceCream, , ,Nutmeg, , , , Yogurt, 
+Apple,Bread,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans, , , , , Unicorn, , Chocolate
+ ,Bread,Butter, , , , , , , , , , , , Yogurt, Chocolate
+ ,Bread, , , , , , , , , ,Onion, , , , 
+Apple,Bread, , ,Corn,Dill, ,IceCream,KidneyBeans,Milk, ,Onion, , , , Chocolate
+ , , , , , , ,IceCream, , , , ,Sugar, , , 
+ ,Bread, , ,Corn,Dill,Eggs,IceCream, ,Milk, , , , Unicorn, , 
+ , , , , , , , , , , ,Onion, , , , 
+Apple, , , , , , , , , , ,Onion, , , , Chocolate
+ ,Bread, , , ,Dill, , , , , , ,Sugar, , Yogurt, Chocolate
+ ,Bread,Butter,Cheese, ,Dill,Eggs, , , ,Nutmeg,Onion,Sugar, , , 
+Apple, ,Butter,Cheese,Corn,Dill, , ,KidneyBeans,Milk, , , , Unicorn, , Chocolate
+Apple,Bread,Butter, , , , , , , , ,Onion,Sugar, Unicorn, , Chocolate
+Apple, , , ,Corn, ,Eggs,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , 
+ , , , , ,Dill, , , , , , ,Sugar, Unicorn, , 
+Apple, , , , , , , , , , , , , , , 
+ ,Bread, , , , , ,IceCream, , ,Nutmeg, , , Unicorn, , 
+ ,Bread, , ,Corn,Dill, , ,KidneyBeans,Milk,Nutmeg, , , , Yogurt, Chocolate
+ , , , , , , ,IceCream,KidneyBeans, , , , , , Yogurt, 
+Apple, , ,Cheese, ,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg, , , , , 
+ , , , , , , , , , , , , , , Yogurt, Chocolate
+Apple, , , , , , , , ,Milk, ,Onion, , , , Chocolate
+Apple,Bread, ,Cheese, , , , ,KidneyBeans,Milk,Nutmeg, ,Sugar, , Yogurt, 
+ ,Bread,Butter,Cheese,Corn,Dill,Eggs, , ,Milk,Nutmeg, , , , Yogurt, Chocolate
+ , , , , , , , , , , , , , , Yogurt, 
+ , , , , , , ,IceCream, ,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+Apple,Bread, , ,Corn,Dill,Eggs,IceCream, ,Milk, ,Onion,Sugar, Unicorn, Yogurt, 
+Apple, ,Butter, ,Corn, , ,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+ ,Bread, ,Cheese, ,Dill, ,IceCream,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , , , , , , , , , , , , , Unicorn, , 
+ ,Bread, ,Cheese,Corn,Dill,Eggs, , ,Milk, , , , , Yogurt, 
+ , , , , ,Dill, ,IceCream, , , , ,Sugar, Unicorn, , Chocolate
+ ,Bread, , , ,Dill,Eggs,IceCream,KidneyBeans, , , , , , Yogurt, Chocolate
+Apple, , , ,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg, ,Sugar, , , Chocolate
+ , ,Butter, ,Corn, , ,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , , , , , , , , , , ,Onion, , , , 
+Apple,Bread, ,Cheese,Corn,Dill, ,IceCream, ,Milk, , , , Unicorn, , Chocolate
+Apple, , , , , ,Eggs,IceCream, , ,Nutmeg, , , , , 
+Apple,Bread,Butter, , ,Dill, , , , ,Nutmeg,Onion, , , Yogurt, Chocolate
+ , , ,Cheese, ,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, , , Chocolate
+ , ,Butter,Cheese, , , ,IceCream, , ,Nutmeg, , , , , 
+ , , ,Cheese, , ,Eggs, , , , ,Onion, , Unicorn, Yogurt, 
+ ,Bread,Butter,Cheese, ,Dill,Eggs, , , , ,Onion, , Unicorn, Yogurt, 
+Apple, ,Butter, ,Corn, , , , , , , ,Sugar, , , 
+Apple, , , , , , , , , , , , , , , 
+Apple,Bread,Butter,Cheese,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+Apple, ,Butter, , , , , , ,Milk, ,Onion,Sugar, , Yogurt, Chocolate
+Apple, , , ,Corn,Dill, , ,KidneyBeans,Milk,Nutmeg, , , , , Chocolate
+ , ,Butter, , , ,Eggs, ,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+Apple, , ,Cheese, ,Dill, ,IceCream, , , , , , , , Chocolate
+Apple, , ,Cheese,Corn,Dill,Eggs, ,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter, ,Corn,Dill, , ,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , , ,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple, ,Butter, ,Corn,Dill, , , , , ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread,Butter,Cheese,Corn, ,Eggs,IceCream, , ,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple, , , , ,Dill, , , ,Milk,Nutmeg,Onion, , , Yogurt, 
+ ,Bread, , ,Corn,Dill, , , ,Milk, ,Onion, , , , 
+Apple, ,Butter, ,Corn,Dill, , ,KidneyBeans, ,Nutmeg, , , , Yogurt, 
+ , , , , , , , , , , , , , , Yogurt, 
+Apple, ,Butter, ,Corn, ,Eggs, ,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, 
+ ,Bread,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk, ,Onion,Sugar, , Yogurt, Chocolate
+ ,Bread, , , , ,Eggs, , , , , , , , , 
+ ,Bread,Butter,Cheese, , , ,IceCream, ,Milk, , ,Sugar, , , Chocolate
+ , , ,Cheese, , ,Eggs, , , , , ,Sugar, , Yogurt, Chocolate
+ ,Bread, , , , , , , , , , , , Unicorn, , 
+ ,Bread, ,Cheese, , ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, , 
+ , , , ,Corn, ,Eggs, , ,Milk, , , , , , 
+Apple, , ,Cheese, ,Dill,Eggs, ,KidneyBeans, , ,Onion, , Unicorn, , Chocolate
+ , , , , , , , ,KidneyBeans, , , , , Unicorn, Yogurt, 
+ , , , , , , , , , , , , , , Yogurt, 
+ , , , , , , , , , ,Nutmeg, , , , , 
+Apple, , ,Cheese,Corn,Dill, , , ,Milk,Nutmeg,Onion, , , Yogurt, 
+Apple,Bread,Butter,Cheese,Corn,Dill, , , , , ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread, , ,Corn, ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, , , , , Chocolate
+ , ,Butter, , , ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , , , 
+Apple,Bread, ,Cheese, ,Dill,Eggs, , , ,Nutmeg,Onion,Sugar, , Yogurt, 
+Apple, , ,Cheese, , ,Eggs, ,KidneyBeans, , , , , , , 
+ ,Bread,Butter, ,Corn, ,Eggs,IceCream, , , ,Onion,Sugar, Unicorn, , 
+Apple,Bread,Butter,Cheese, , , , , ,Milk, ,Onion,Sugar, , , Chocolate
+Apple, , ,Cheese,Corn,Dill, ,IceCream, , , , ,Sugar, , Yogurt, 
+ , , , ,Corn, ,Eggs, , , ,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , ,Butter,Cheese, ,Dill, ,IceCream, , , , ,Sugar, , , 
+ , , ,Cheese, , , , , , ,Nutmeg,Onion, , , Yogurt, 
+ , ,Butter, ,Corn, , ,IceCream,KidneyBeans, , , , , Unicorn, Yogurt, 
+ ,Bread, , ,Corn,Dill,Eggs, ,KidneyBeans, ,Nutmeg, , , , Yogurt, Chocolate
+ , , ,Cheese, , , , , , , , , , , , 
+ ,Bread,Butter, , ,Dill,Eggs, , , , , , , , Yogurt, 
+Apple, , , , , , ,IceCream, , , ,Onion, , , Yogurt, Chocolate
+ , , , , , , , ,KidneyBeans, ,Nutmeg, ,Sugar, , , Chocolate
+Apple, ,Butter,Cheese,Corn, ,Eggs, , ,Milk,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+ ,Bread,Butter, ,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+Apple, ,Butter, , , , , , , , , , , Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter, , ,Dill, , , ,Milk,Nutmeg, ,Sugar, , , Chocolate
+Apple, , ,Cheese, ,Dill,Eggs, , , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+ , , ,Cheese, ,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg, , , Unicorn, , Chocolate
+ , , , , , , , ,KidneyBeans, ,Nutmeg, ,Sugar, , , 
+ , ,Butter,Cheese,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, 
+ ,Bread,Butter, , ,Dill,Eggs,IceCream, ,Milk, ,Onion, , Unicorn, Yogurt, Chocolate
+Apple, , , ,Corn,Dill,Eggs, , ,Milk, , , , , Yogurt, Chocolate
+ , , , , , , , ,KidneyBeans, , , , , , , 
+ , , ,Cheese,Corn, , , ,KidneyBeans,Milk, ,Onion, , , , 
+Apple, ,Butter,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , Chocolate
+Apple,Bread,Butter, ,Corn, , , , ,Milk,Nutmeg, , , Unicorn, Yogurt, 
+ , , ,Cheese, ,Dill,Eggs, , , , , , , Unicorn, , 
+Apple,Bread, , ,Corn, ,Eggs,IceCream,KidneyBeans, , ,Onion,Sugar, , Yogurt, 
+ , , , , , , , ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+ ,Bread,Butter,Cheese,Corn, , , ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, , 
+ , , , , ,Dill, ,IceCream, ,Milk, ,Onion,Sugar, , , 
+ , , , ,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , Chocolate
+Apple,Bread, ,Cheese, , ,Eggs, , , , , , , , , Chocolate
+ , , , , , ,Eggs, , , ,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+Apple,Bread,Butter, ,Corn, , ,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+ , , ,Cheese,Corn, , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, 
+ , , , , , , , ,KidneyBeans, , , , , , , 
+ , , , , , , , , , , , , , Unicorn, , 
+ , , ,Cheese, , , , ,KidneyBeans,Milk, , ,Sugar, Unicorn, , 
+ , , , ,Corn, , , ,KidneyBeans, , , ,Sugar, Unicorn, , 
+ ,Bread,Butter, ,Corn, , , ,KidneyBeans, , , , , , Yogurt, 
+Apple, ,Butter, , ,Dill,Eggs,IceCream,KidneyBeans,Milk, ,Onion,Sugar, , Yogurt, 
+ , , , ,Corn, , , , , , , , , , , 
+Apple, , , ,Corn, , , , ,Milk,Nutmeg, ,Sugar, , , 
+ , , , , ,Dill, , , , , , , , , , 
+ , , , ,Corn, ,Eggs,IceCream,KidneyBeans, ,Nutmeg, , , Unicorn, , Chocolate
+ , , , , , ,Eggs, ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , 
+ , ,Butter, ,Corn,Dill,Eggs,IceCream, ,Milk, ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple, ,Butter, ,Corn,Dill,Eggs,IceCream, , , , ,Sugar, Unicorn, , Chocolate
+ , , , , , , , , , , , , , , Yogurt, 
+Apple,Bread,Butter,Cheese,Corn, ,Eggs,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , Chocolate
+ ,Bread, , , ,Dill, , , , ,Nutmeg,Onion, , Unicorn, Yogurt, 
+ , , , , , , ,IceCream, , , , , , , , 
+Apple,Bread, , , , , , , , , , , , , , 
+ ,Bread,Butter, , , ,Eggs,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , , Chocolate
+Apple, ,Butter,Cheese, ,Dill, ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+ , , , , , , , , , , ,Onion, , , , Chocolate
+ ,Bread, , , , ,Eggs, , , , , ,Sugar, , , Chocolate
+ ,Bread, ,Cheese, , , , , , , ,Onion, , , , Chocolate
+ , ,Butter,Cheese, , , , , , ,Nutmeg, , , , , 
+ , ,Butter,Cheese, ,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+ ,Bread, ,Cheese,Corn, , , , ,Milk,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ ,Bread, , , , , , ,KidneyBeans, , , , , , , 
+ , , , , , , ,IceCream, ,Milk, , , , , , Chocolate
+ , ,Butter,Cheese,Corn,Dill, , , ,Milk, , ,Sugar, Unicorn, , Chocolate
+Apple, ,Butter,Cheese, , ,Eggs, , , , ,Onion,Sugar, , Yogurt, Chocolate
+ , , , , ,Dill, , , , ,Nutmeg, , , , , 
+Apple,Bread,Butter, ,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , ,Butter, , , , , , , ,Nutmeg, , , , , Chocolate
+ , ,Butter,Cheese, , , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+Apple, ,Butter,Cheese, ,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , , , ,Corn, , ,IceCream, , ,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+Apple, ,Butter,Cheese,Corn,Dill, , ,KidneyBeans, , , ,Sugar, Unicorn, Yogurt, 
+Apple,Bread, , ,Corn,Dill, , ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , ,Cheese,Corn, , ,IceCream,KidneyBeans, , , , , , Yogurt, 
+Apple, , ,Cheese, , , , , ,Milk, , , , , , 
+Apple,Bread,Butter,Cheese, ,Dill, ,IceCream, , ,Nutmeg,Onion,Sugar, , , Chocolate
+ , , ,Cheese,Corn, ,Eggs, ,KidneyBeans, , ,Onion, , Unicorn, Yogurt, 
+ , ,Butter,Cheese, ,Dill,Eggs,IceCream, , , ,Onion, , Unicorn, , Chocolate
+ , , , ,Corn,Dill, , , ,Milk, , , , , , 
+Apple,Bread, ,Cheese,Corn,Dill,Eggs, , ,Milk, ,Onion,Sugar, Unicorn, , 
+ ,Bread,Butter,Cheese, , ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , , , 
+Apple, , , , , , ,IceCream, ,Milk, , , , , , Chocolate
+ , ,Butter,Cheese, ,Dill, ,IceCream,KidneyBeans,Milk, , ,Sugar, , Yogurt, 
+ , , , , ,Dill, ,IceCream, , ,Nutmeg,Onion, , , , Chocolate
+ , ,Butter, , , , ,IceCream, ,Milk, , ,Sugar, Unicorn, , Chocolate
+ ,Bread,Butter, , ,Dill,Eggs,IceCream,KidneyBeans,Milk, ,Onion, , Unicorn, , 
+ , , , , , , ,IceCream, , , , , , Unicorn, , 
+ ,Bread, ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans, , , , , Unicorn, Yogurt, 
+Apple, , , ,Corn, , , , , , , ,Sugar, , , 
+ , , ,Cheese,Corn, , , , ,Milk, , ,Sugar, , Yogurt, Chocolate
+ , , ,Cheese, , , , ,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, , 
+ , , , , , , , , , ,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+ ,Bread,Butter,Cheese, ,Dill, ,IceCream, , ,Nutmeg,Onion, , Unicorn, , Chocolate
+Apple,Bread,Butter, ,Corn,Dill,Eggs,IceCream,KidneyBeans, , , ,Sugar, , Yogurt, 
+Apple,Bread,Butter, ,Corn, , ,IceCream,KidneyBeans, , , , , , , Chocolate
+ ,Bread,Butter,Cheese, , ,Eggs, , ,Milk,Nutmeg, , , , Yogurt, Chocolate
+ , , , , , ,Eggs, , , , , , , , , 
+ , ,Butter, , , ,Eggs, ,KidneyBeans,Milk, ,Onion, , , Yogurt, Chocolate
+ , ,Butter, , ,Dill, , , , ,Nutmeg, ,Sugar, Unicorn, , Chocolate
+ ,Bread,Butter,Cheese,Corn, ,Eggs,IceCream, ,Milk,Nutmeg,Onion, , , , Chocolate
+Apple, , , ,Corn, ,Eggs,IceCream, , ,Nutmeg, , , , , 
+Apple,Bread, , , ,Dill, , , , ,Nutmeg, ,Sugar, Unicorn, , 
+ , , , , ,Dill, , , , , ,Onion, , , , 
+ , , , , , ,Eggs,IceCream, , ,Nutmeg,Onion, , , , Chocolate
+Apple,Bread, , , , ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, 
+ , , ,Cheese, , ,Eggs, ,KidneyBeans, , , , , , , Chocolate
+ ,Bread,Butter, , ,Dill, , , , ,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple, ,Butter,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , 
+Apple, ,Butter, , , ,Eggs,IceCream, ,Milk, , ,Sugar, , , 
+ , , ,Cheese,Corn, ,Eggs, , , , , ,Sugar, Unicorn, Yogurt, 
+ ,Bread, , , , , , , , , , , , Unicorn, , 
+Apple, ,Butter,Cheese,Corn,Dill,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, , 
+Apple, , , ,Corn, , , , , , , , , , , 
+ ,Bread, , ,Corn,Dill, , , ,Milk, , , , , , Chocolate
+Apple, , ,Cheese,Corn,Dill, , , , ,Nutmeg, ,Sugar, , , 
+ , ,Butter, , , , ,IceCream, ,Milk, , , , , Yogurt, Chocolate
+ , , ,Cheese,Corn, , , , , ,Nutmeg, ,Sugar, , , 
+Apple,Bread, , , , , , , , , , , , , , 
+ , , , , ,Dill, , , , , , , , , , 
+ , , , , , , ,IceCream, , ,Nutmeg, ,Sugar, Unicorn, , 
+ , , , ,Corn, , , , , , ,Onion, , , , 
+Apple,Bread,Butter,Cheese,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+ ,Bread,Butter, ,Corn, , , , , , , , , Unicorn, Yogurt, 
+ ,Bread, , , , , , , , , , , , Unicorn, Yogurt, 
+Apple,Bread, , ,Corn,Dill, , , ,Milk, , , , , , Chocolate
+ , , , , ,Dill, , , , , , , , , , 
+Apple, ,Butter,Cheese, , , ,IceCream,KidneyBeans,Milk, , ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread, , , ,Dill,Eggs,IceCream, , , , ,Sugar, , , 
+Apple, , ,Cheese,Corn, , , , ,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , ,Butter, ,Corn, , , ,KidneyBeans, , ,Onion, , , , 
+Apple, , , ,Corn,Dill, , , , ,Nutmeg,Onion, , , , 
+ ,Bread, ,Cheese, , ,Eggs, , ,Milk,Nutmeg, , , Unicorn, , 
+Apple, ,Butter,Cheese, , , ,IceCream,KidneyBeans,Milk, , , , , , Chocolate
+ , ,Butter, ,Corn,Dill,Eggs,IceCream, , ,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple,Bread,Butter,Cheese, , , ,IceCream,KidneyBeans, , ,Onion,Sugar, , , 
+ , ,Butter, , , , , , , , , , , , , 
+ ,Bread,Butter, , ,Dill, , , , ,Nutmeg, , , Unicorn, Yogurt, 
+ ,Bread, , ,Corn, , , , , , , , , , Yogurt, 
+Apple, ,Butter, ,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , , , Chocolate
+ , , , ,Corn, , , , , , , , , , Yogurt, 
+Apple, ,Butter,Cheese,Corn, , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , Chocolate
+ , , ,Cheese, , , , , , , , , , , , 
+ , ,Butter, , , , ,IceCream,KidneyBeans,Milk, , ,Sugar, Unicorn, , Chocolate
+ , , , ,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg, , , , , 
+Apple, , ,Cheese,Corn,Dill, , ,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+Apple,Bread,Butter,Cheese,Corn,Dill,Eggs,IceCream, , , ,Onion, , Unicorn, , 
+Apple, , ,Cheese,Corn,Dill,Eggs, , , ,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+ , , , ,Corn,Dill, , , , , , , , , , 
+Apple, , , , , , , , , , , , , , , 
+ , ,Butter, , , , ,IceCream,KidneyBeans, , , , , , , 
+Apple,Bread, ,Cheese,Corn,Dill,Eggs, ,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, 
+ ,Bread, ,Cheese,Corn, , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ , , , , , , , ,KidneyBeans, , , , , , , 
+Apple,Bread, , ,Corn, , , , ,Milk,Nutmeg,Onion, , , Yogurt, 
+ ,Bread,Butter,Cheese,Corn, ,Eggs, , , ,Nutmeg,Onion, , , Yogurt, Chocolate
+ , , , ,Corn, , , ,KidneyBeans,Milk, , , , Unicorn, , 
+Apple,Bread, ,Cheese, , , ,IceCream, , ,Nutmeg,Onion, , Unicorn, , 
+ , , ,Cheese, ,Dill, , ,KidneyBeans, ,Nutmeg,Onion,Sugar, , , 
+Apple, ,Butter, ,Corn,Dill, , ,KidneyBeans,Milk, ,Onion, , Unicorn, , 
+Apple,Bread,Butter, ,Corn, ,Eggs,IceCream, , , , ,Sugar, Unicorn, Yogurt, 
+ , ,Butter,Cheese, , ,Eggs,IceCream,KidneyBeans, , ,Onion, , Unicorn, Yogurt, 
+ ,Bread,Butter, ,Corn, , , , ,Milk, , , , Unicorn, Yogurt, 
+Apple,Bread,Butter, ,Corn, , ,IceCream, , , , ,Sugar, Unicorn, Yogurt, 
+ , , , ,Corn,Dill, ,IceCream, ,Milk,Nutmeg,Onion, , , , 
+ ,Bread,Butter, ,Corn, ,Eggs, ,KidneyBeans, , ,Onion,Sugar, , Yogurt, Chocolate
+ ,Bread,Butter,Cheese, , , , , , , ,Onion,Sugar, , Yogurt, 
+ , ,Butter,Cheese,Corn, , ,IceCream, ,Milk, , , , Unicorn, Yogurt, 
+Apple,Bread,Butter, ,Corn, ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, , , Chocolate
+ , , , , , ,Eggs, , , , , , , Unicorn, Yogurt, 
+Apple, ,Butter, , , ,Eggs, ,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, 
+Apple,Bread, , , ,Dill,Eggs,IceCream, ,Milk,Nutmeg, ,Sugar, , Yogurt, Chocolate
+Apple,Bread,Butter, , ,Dill, , ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+ ,Bread, ,Cheese, ,Dill, , , ,Milk, ,Onion, , , , Chocolate
+ , ,Butter,Cheese,Corn, ,Eggs,IceCream,KidneyBeans, , , , , , Yogurt, Chocolate
+Apple,Bread, , , ,Dill, , , ,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+ , ,Butter,Cheese, ,Dill,Eggs, ,KidneyBeans, ,Nutmeg, , , Unicorn, , Chocolate
+ , ,Butter, ,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, Chocolate
+ , ,Butter,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk, ,Onion, , , , Chocolate
+Apple, ,Butter,Cheese, , , , , , , , ,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , ,Cheese,Corn, , , , , , , , , , , Chocolate
+ , , ,Cheese,Corn,Dill, ,IceCream, , ,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+Apple, , , ,Corn, , , ,KidneyBeans, , , , , , , 
+Apple, , ,Cheese, , ,Eggs,IceCream,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread, ,Cheese, ,Dill,Eggs, ,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ ,Bread, ,Cheese, , , , , , , , , , , , Chocolate
+Apple, , ,Cheese,Corn,Dill,Eggs,IceCream, , , ,Onion,Sugar, , Yogurt, 
+ ,Bread, , ,Corn, ,Eggs, , , ,Nutmeg,Onion, , Unicorn, , Chocolate
+ , , ,Cheese,Corn, , ,IceCream, , ,Nutmeg, ,Sugar, , , 
+ , , , , ,Dill, , ,KidneyBeans, , , , , , , 
+Apple, ,Butter, , , ,Eggs, ,KidneyBeans,Milk,Nutmeg, ,Sugar, , Yogurt, 
+Apple, ,Butter, ,Corn, ,Eggs, , ,Milk,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+Apple, ,Butter,Cheese,Corn, , ,IceCream,KidneyBeans, , ,Onion, , Unicorn, , 
+ , , , ,Corn,Dill, ,IceCream, ,Milk, , ,Sugar, Unicorn, , Chocolate
+Apple, , , , ,Dill, ,IceCream,KidneyBeans, , , , , , , Chocolate
+Apple, ,Butter,Cheese, ,Dill,Eggs, , ,Milk, , ,Sugar, , , Chocolate
+ , ,Butter, ,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, , Yogurt, 
+Apple,Bread,Butter,Cheese, ,Dill,Eggs, , ,Milk, ,Onion,Sugar, , , 
+Apple,Bread, , ,Corn,Dill,Eggs,IceCream, ,Milk, ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk, , , , , Yogurt, Chocolate
+Apple, ,Butter,Cheese, , ,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , , , 
+ ,Bread, ,Cheese,Corn, , , ,KidneyBeans,Milk, , ,Sugar, , Yogurt, 
+ , , , ,Corn, ,Eggs, , , , , , , Unicorn, Yogurt, Chocolate
+ , , ,Cheese, ,Dill, ,IceCream,KidneyBeans, , , ,Sugar, , Yogurt, Chocolate
+ ,Bread, ,Cheese,Corn,Dill, ,IceCream,KidneyBeans, , ,Onion, , , , 
+ , , , , ,Dill,Eggs, , , , ,Onion, , Unicorn, , Chocolate
+ , , , , ,Dill, , , , , ,Onion, , , Yogurt, 
+ , ,Butter,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, 
+ , ,Butter, , ,Dill,Eggs,IceCream, , ,Nutmeg, , , , , Chocolate
+Apple, ,Butter, , , ,Eggs, , ,Milk,Nutmeg,Onion,Sugar, Unicorn, , 
+Apple,Bread,Butter, ,Corn, ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , , , ,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk, ,Onion, , , Yogurt, 
+Apple, ,Butter, ,Corn, , , ,KidneyBeans,Milk, ,Onion, , Unicorn, , 
+ ,Bread, , , ,Dill, , ,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, 
+Apple, ,Butter,Cheese, , , , ,KidneyBeans, , , ,Sugar, , , 
+ , , ,Cheese, , , ,IceCream, , , ,Onion, , , Yogurt, 
+ ,Bread,Butter, , ,Dill, ,IceCream, ,Milk,Nutmeg,Onion,Sugar, , , Chocolate
+ , ,Butter,Cheese, , , ,IceCream,KidneyBeans, ,Nutmeg, , , Unicorn, Yogurt, 
+Apple, ,Butter, ,Corn, , ,IceCream,KidneyBeans, , ,Onion,Sugar, Unicorn, , 
+Apple,Bread, ,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk, , , , Unicorn, , 
+ , , ,Cheese, , , , , ,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread, ,Cheese, , , , , , , , , , , , Chocolate
+Apple, ,Butter,Cheese,Corn,Dill, , ,KidneyBeans, , ,Onion, , Unicorn, Yogurt, Chocolate
+Apple, , , ,Corn, , ,IceCream, , ,Nutmeg,Onion,Sugar, , Yogurt, 
+ ,Bread,Butter, , ,Dill, , , ,Milk,Nutmeg,Onion,Sugar, , , 
+ , ,Butter,Cheese,Corn, ,Eggs,IceCream, ,Milk, ,Onion, , , , 
+ , , , , , ,Eggs,IceCream,KidneyBeans,Milk, , ,Sugar, Unicorn, Yogurt, 
+Apple, ,Butter,Cheese, ,Dill, , ,KidneyBeans,Milk, , ,Sugar, , Yogurt, Chocolate
+Apple, , , , , , ,IceCream, ,Milk, , , , Unicorn, , 
+ , ,Butter, , , , , ,KidneyBeans,Milk, , , , , , 
+Apple, , ,Cheese,Corn, ,Eggs, , ,Milk,Nutmeg,Onion, , Unicorn, Yogurt, 
+ ,Bread, , ,Corn, , , ,KidneyBeans,Milk, , ,Sugar, , , Chocolate
+ , , ,Cheese,Corn, , , ,KidneyBeans, , ,Onion, , , , 
+ ,Bread, ,Cheese,Corn,Dill, , ,KidneyBeans,Milk, , ,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter,Cheese, , , ,IceCream, ,Milk, , ,Sugar, , Yogurt, Chocolate
+Apple, ,Butter, , ,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , Chocolate
+Apple, , , , , ,Eggs, , , , , , , , , 
+ ,Bread, , , ,Dill,Eggs,IceCream, ,Milk,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+Apple,Bread,Butter,Cheese, , ,Eggs, , ,Milk,Nutmeg, , , , Yogurt, 
+ , ,Butter,Cheese,Corn,Dill, , ,KidneyBeans, , ,Onion, , , Yogurt, Chocolate
+ , , , ,Corn, , , , , , , , , , , 
+ , ,Butter,Cheese, ,Dill, ,IceCream, ,Milk,Nutmeg, ,Sugar, , , Chocolate
+Apple,Bread,Butter, ,Corn, , , , , ,Nutmeg,Onion,Sugar, , Yogurt, 
+ , ,Butter, ,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , Chocolate
+Apple, ,Butter, ,Corn,Dill, ,IceCream,KidneyBeans, , , ,Sugar, , , Chocolate
+ , , , ,Corn, ,Eggs, , , ,Nutmeg, , , , Yogurt, 
+Apple, ,Butter,Cheese,Corn,Dill,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, 
+Apple, ,Butter,Cheese,Corn, , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , Chocolate
+Apple, , , , , , , , , , ,Onion, , , , 
+ , , , , , , , , , , , ,Sugar, , , 
+ , , , , ,Dill,Eggs, , , , , ,Sugar, , , 
+ ,Bread,Butter, , , , , , ,Milk,Nutmeg, , , , , 
+ ,Bread,Butter,Cheese,Corn,Dill,Eggs,IceCream, ,Milk, ,Onion,Sugar, Unicorn, , 
+ ,Bread,Butter,Cheese,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg, , , , Yogurt, Chocolate
+ , , , ,Corn,Dill, ,IceCream, , , , , , Unicorn, , 
+ ,Bread, ,Cheese, , , , ,KidneyBeans,Milk, , , , Unicorn, , 
+Apple, , , , , , ,IceCream,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+ ,Bread,Butter, , , ,Eggs, ,KidneyBeans, , , ,Sugar, Unicorn, , 
+ , , , ,Corn, , , , , ,Nutmeg, , , Unicorn, , 
+Apple, , ,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk, , , , , Yogurt, Chocolate
+Apple,Bread, ,Cheese,Corn, ,Eggs,IceCream, , , ,Onion,Sugar, Unicorn, , Chocolate
+Apple,Bread,Butter,Cheese, ,Dill,Eggs, ,KidneyBeans, , ,Onion, , , Yogurt, Chocolate
+ ,Bread,Butter, , , , ,IceCream,KidneyBeans, , , ,Sugar, Unicorn, Yogurt, 
+Apple,Bread,Butter, ,Corn, ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+ , ,Butter,Cheese, ,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , , , 
+ , , ,Cheese,Corn, , , , ,Milk, , , , Unicorn, Yogurt, 
+ ,Bread,Butter,Cheese,Corn,Dill,Eggs, ,KidneyBeans, , ,Onion,Sugar, Unicorn, , Chocolate
+ , ,Butter,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , ,Butter, ,Corn, , , , ,Milk, , ,Sugar, Unicorn, Yogurt, 
+Apple,Bread,Butter,Cheese,Corn, ,Eggs, , , ,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+Apple,Bread, , ,Corn, , , , , , , , , , Yogurt, 
+ , , ,Cheese, , , ,IceCream,KidneyBeans, ,Nutmeg, , , , , 
+ ,Bread, ,Cheese,Corn,Dill, ,IceCream, ,Milk, ,Onion,Sugar, , Yogurt, Chocolate
+Apple, , , , ,Dill,Eggs,IceCream, , ,Nutmeg, ,Sugar, , , Chocolate
+ , , , , ,Dill, , , , , ,Onion,Sugar, , , Chocolate
+Apple,Bread,Butter,Cheese, , , ,IceCream, , ,Nutmeg,Onion, , Unicorn, Yogurt, 
+ , , ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans, , ,Onion, , , , Chocolate
+ , ,Butter,Cheese, , , ,IceCream,KidneyBeans,Milk, ,Onion,Sugar, , Yogurt, 
+ ,Bread, ,Cheese, , , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+Apple, , , ,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg, , , , Yogurt, Chocolate
+ , , , , ,Dill, , , , , , , , , Yogurt, 
+ ,Bread,Butter, , ,Dill,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , Unicorn, Yogurt, 
+Apple, , , , , , , , , , , , , , , 
+ , ,Butter, , ,Dill, , ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread, , ,Corn, , ,IceCream, , , ,Onion,Sugar, , , 
+Apple, , , , , ,Eggs,IceCream, ,Milk, ,Onion,Sugar, , Yogurt, 
+ ,Bread,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, 
+ , ,Butter,Cheese, , , ,IceCream, , , , ,Sugar, , Yogurt, Chocolate
+Apple,Bread,Butter, , ,Dill, , ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, 
+ , , , , , ,Eggs, , , , , ,Sugar, , Yogurt, 
+Apple,Bread,Butter,Cheese, ,Dill, ,IceCream, , ,Nutmeg,Onion, , Unicorn, , 
+ , , , , , ,Eggs,IceCream, ,Milk,Nutmeg,Onion,Sugar, , , Chocolate
+ , , ,Cheese, , , , , , , , , , , , 
+ , , , , ,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+ , ,Butter,Cheese,Corn,Dill,Eggs,IceCream, ,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+ , , , ,Corn, ,Eggs,IceCream,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, Chocolate
+ , , , , , , ,IceCream, , , , , , , Yogurt, Chocolate
+ ,Bread,Butter, , , ,Eggs,IceCream, ,Milk, ,Onion, , Unicorn, Yogurt, Chocolate
+Apple, ,Butter,Cheese,Corn, , ,IceCream, , ,Nutmeg, , , Unicorn, , 
+ , ,Butter,Cheese, , , , , ,Milk, , , , Unicorn, , 
+ ,Bread, , ,Corn, ,Eggs,IceCream,KidneyBeans, , ,Onion, , , Yogurt, 
+ , , , , ,Dill, , , ,Milk, , , , , , 
+Apple, , , , , , ,IceCream, ,Milk, ,Onion,Sugar, , Yogurt, Chocolate
+ , ,Butter, ,Corn, , , ,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, 
+ , , ,Cheese,Corn, , , , , ,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+Apple, ,Butter, , ,Dill, , , ,Milk,Nutmeg, ,Sugar, , Yogurt, 
+Apple,Bread,Butter,Cheese, , ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, , Yogurt, 
+Apple, ,Butter, ,Corn, ,Eggs, , , ,Nutmeg, ,Sugar, Unicorn, , 
+Apple, , , , , , , , , , , , , , , 
+Apple,Bread, ,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, , 
+Apple, , , , ,Dill,Eggs, , , ,Nutmeg,Onion,Sugar, , , 
+Apple, , , ,Corn, , , ,KidneyBeans, , , , , Unicorn, Yogurt, Chocolate
+ ,Bread, ,Cheese, ,Dill, , , , , , , , , Yogurt, 
+ ,Bread,Butter,Cheese, , , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, 
+ , , ,Cheese,Corn,Dill,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , , , 
+ , ,Butter,Cheese,Corn,Dill, ,IceCream, , ,Nutmeg,Onion, , Unicorn, , Chocolate
+Apple, ,Butter,Cheese, , , ,IceCream, ,Milk,Nutmeg,Onion,Sugar, , , Chocolate
+ ,Bread,Butter,Cheese, , , , , ,Milk, ,Onion,Sugar, Unicorn, , 
+Apple,Bread, , , , ,Eggs,IceCream,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, 
+Apple, , , , ,Dill, , , , , ,Onion,Sugar, , Yogurt, Chocolate
+Apple, , , , , , ,IceCream, ,Milk,Nutmeg, , , , Yogurt, Chocolate
+Apple, ,Butter, ,Corn,Dill,Eggs, , ,Milk, , ,Sugar, , Yogurt, 
+Apple, ,Butter, , ,Dill, ,IceCream, , , , , , , , 
+ , , , , , ,Eggs, , , , , , , Unicorn, , 
+ , , , , ,Dill, , , ,Milk, ,Onion,Sugar, , Yogurt, Chocolate
+ ,Bread,Butter, , ,Dill, ,IceCream,KidneyBeans,Milk, ,Onion, , , , 
+Apple,Bread,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , 
+ , , , , ,Dill, , , , , , , , , Yogurt, 
+ , ,Butter, ,Corn, , , , , , ,Onion,Sugar, , , 
+Apple, ,Butter, , ,Dill, , , ,Milk, ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter,Cheese,Corn, ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, , , 
+ , , ,Cheese, , , , , , , , , , , , 
+ , , ,Cheese,Corn,Dill,Eggs,IceCream, , , , , , Unicorn, Yogurt, 
+Apple, , ,Cheese,Corn, ,Eggs,IceCream, ,Milk, ,Onion, , , , 
+ ,Bread, ,Cheese, ,Dill, ,IceCream, ,Milk,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ , ,Butter,Cheese, , , ,IceCream, , ,Nutmeg, , , Unicorn, , 
+ , , ,Cheese, ,Dill, , , , ,Nutmeg, , , , , 
+ ,Bread,Butter, , ,Dill, , ,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, 
+ , , , , , , , ,KidneyBeans, , ,Onion, , , , Chocolate
+Apple,Bread, , ,Corn, , , ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , ,Butter,Cheese,Corn,Dill,Eggs, , , ,Nutmeg,Onion, , , , 
+ ,Bread, , , , ,Eggs, , ,Milk,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+ , ,Butter,Cheese,Corn, , ,IceCream,KidneyBeans, , ,Onion, , , , 
+ ,Bread, , ,Corn, , , ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , ,Butter, ,Corn, ,Eggs,IceCream, , , ,Onion, , , , Chocolate
+Apple, , , ,Corn,Dill,Eggs, ,KidneyBeans,Milk, , , , , Yogurt, Chocolate
+ ,Bread,Butter,Cheese,Corn,Dill, , ,KidneyBeans, , ,Onion, , , , 
+ , , ,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+ , , , , , , , ,KidneyBeans, , , , , , , 
+ , ,Butter, ,Corn, ,Eggs, , , , , , , Unicorn, , Chocolate
+Apple,Bread, ,Cheese,Corn, , ,IceCream,KidneyBeans,Milk, , , , , , 
+Apple,Bread, , ,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple, ,Butter, ,Corn,Dill, ,IceCream, , , , , , , Yogurt, 
+Apple,Bread, , , ,Dill,Eggs, , , ,Nutmeg, , , , Yogurt, Chocolate
+Apple, , , , , , , ,KidneyBeans, , , ,Sugar, Unicorn, , Chocolate
+Apple, , , , ,Dill, , , , ,Nutmeg, , , , Yogurt, 
+Apple, ,Butter,Cheese, ,Dill, ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ ,Bread, ,Cheese,Corn, ,Eggs, , , ,Nutmeg, ,Sugar, , , Chocolate
+ , , ,Cheese,Corn, ,Eggs, , , , , , , Unicorn, , 
+Apple,Bread, ,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk, , , , , , Chocolate
+Apple, ,Butter, ,Corn, ,Eggs, , , ,Nutmeg, ,Sugar, , , Chocolate
+ ,Bread, ,Cheese,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, 
+Apple,Bread, ,Cheese,Corn,Dill,Eggs, ,KidneyBeans,Milk, , ,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , ,Cheese, ,Dill,Eggs, , , ,Nutmeg,Onion, , , , 
+Apple,Bread, , ,Corn, , , ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , ,Cheese,Corn,Dill, ,IceCream, ,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread, , ,Corn,Dill,Eggs,IceCream,KidneyBeans, , , , , , Yogurt, Chocolate
+ , , , , ,Dill, , , , , , , , Unicorn, , 
+Apple, , ,Cheese,Corn,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+ , , ,Cheese,Corn, , , , , , ,Onion,Sugar, Unicorn, , 
+ ,Bread, ,Cheese, , , ,IceCream, ,Milk,Nutmeg,Onion, , , , 
+Apple,Bread,Butter,Cheese, , , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , , Chocolate
+Apple, , ,Cheese, ,Dill, , , , ,Nutmeg, , , , , 
+ , , , , ,Dill, ,IceCream, , , , , , , , 
+Apple, , , ,Corn,Dill, ,IceCream,KidneyBeans, , , , , Unicorn, Yogurt, 
+ , , , , , , , ,KidneyBeans, , ,Onion, , , , 
+ ,Bread, , , , ,Eggs,IceCream,KidneyBeans,Milk, ,Onion,Sugar, , Yogurt, Chocolate
+ , ,Butter, , , , , ,KidneyBeans, ,Nutmeg, , , , , 
+Apple, ,Butter,Cheese,Corn, , ,IceCream,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+ , , ,Cheese, , , , , , , , , , , , 
+ , ,Butter, , , , , , ,Milk, , ,Sugar, , Yogurt, 
+ ,Bread,Butter,Cheese,Corn,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+Apple, ,Butter,Cheese,Corn,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg, ,Sugar, , , Chocolate
+ , , , , ,Dill, , , , , , ,Sugar, Unicorn, , 
+ , , ,Cheese,Corn,Dill, ,IceCream, , ,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , , , ,Corn, , , , ,Milk, , ,Sugar, , , 
+ , , , ,Corn,Dill, ,IceCream, , , , ,Sugar, Unicorn, , 
+ , ,Butter,Cheese, , , ,IceCream, , , , , , Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter, ,Corn,Dill, , ,KidneyBeans, , , , , , , Chocolate
+ ,Bread, ,Cheese, , , ,IceCream,KidneyBeans, , , , , , , 
+Apple, ,Butter, , , , ,IceCream,KidneyBeans,Milk, , , , Unicorn, , Chocolate
+ , , , , ,Dill, , , , ,Nutmeg, , , , Yogurt, 
+ , , , , , , , ,KidneyBeans,Milk, , , , , Yogurt, Chocolate
+Apple, ,Butter, , ,Dill,Eggs, ,KidneyBeans, , , , , , , 
+Apple, , , ,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg, , , Unicorn, Yogurt, 
+ , , , , , ,Eggs, , , , ,Onion,Sugar, , , 
+ , ,Butter, , , ,Eggs, , ,Milk,Nutmeg,Onion, , , , 
+ , , ,Cheese, , , , ,KidneyBeans, , , ,Sugar, , , 
+Apple, ,Butter, , , ,Eggs,IceCream,KidneyBeans,Milk, , , , , Yogurt, 
+Apple, ,Butter, , , ,Eggs,IceCream, ,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple, ,Butter,Cheese,Corn,Dill,Eggs,IceCream, ,Milk, ,Onion,Sugar, , , Chocolate
+ , , , ,Corn,Dill,Eggs, ,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread, ,Cheese, , ,Eggs,IceCream, , , , , , , , Chocolate
+ , ,Butter,Cheese, ,Dill,Eggs, , , , , , , , , 
+ ,Bread, , , ,Dill,Eggs, , ,Milk, , , , , Yogurt, Chocolate
+Apple,Bread,Butter, ,Corn,Dill,Eggs, ,KidneyBeans,Milk, , ,Sugar, , , Chocolate
+Apple, , , , , , , ,KidneyBeans,Milk, ,Onion, , , Yogurt, 
+ , , ,Cheese, ,Dill, , , ,Milk, ,Onion,Sugar, , , Chocolate
+ ,Bread, , , , , , , , , , , , Unicorn, , 
+ ,Bread,Butter, , ,Dill, ,IceCream, , , ,Onion, , , Yogurt, 
+Apple,Bread, ,Cheese,Corn,Dill,Eggs, , , , , , , , Yogurt, 
+ , , ,Cheese, , , , , , , , , , , , 
+ ,Bread, ,Cheese, ,Dill, ,IceCream, ,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+ , , ,Cheese, , , , ,KidneyBeans, , , , , , , 
+Apple, ,Butter, , , , , , ,Milk, , , , , , Chocolate
+ , , ,Cheese, ,Dill, , ,KidneyBeans,Milk,Nutmeg,Onion, , , , Chocolate
+Apple, , , , , , , ,KidneyBeans, , , , , , , 
+ ,Bread, , ,Corn,Dill, ,IceCream, , , ,Onion, , , Yogurt, Chocolate
+Apple, , ,Cheese,Corn,Dill, , , ,Milk, , , , Unicorn, Yogurt, 
+ , , , , ,Dill, , , , , ,Onion, , , Yogurt, 
+ , , , ,Corn, ,Eggs,IceCream,KidneyBeans,Milk, ,Onion, , Unicorn, , 
+ , , ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread, ,Cheese, , , , ,KidneyBeans, ,Nutmeg, , , Unicorn, Yogurt, 
+ ,Bread, , , ,Dill,Eggs, , ,Milk, , ,Sugar, Unicorn, Yogurt, 
+ ,Bread,Butter, , ,Dill, ,IceCream,KidneyBeans,Milk, , , , Unicorn, , 
+ ,Bread,Butter, , , ,Eggs,IceCream,KidneyBeans, ,Nutmeg, , , Unicorn, , Chocolate
+Apple, , ,Cheese,Corn,Dill, ,IceCream, ,Milk,Nutmeg,Onion,Sugar, , , 
+ , , , ,Corn,Dill, , ,KidneyBeans, , , , , , , 
+Apple,Bread, ,Cheese,Corn,Dill,Eggs, , , , ,Onion,Sugar, , , 
+ ,Bread,Butter,Cheese, ,Dill, ,IceCream, , , , , , , Yogurt, 
+Apple, , , ,Corn,Dill, ,IceCream,KidneyBeans, , , , , Unicorn, Yogurt, 
+ , ,Butter, , , , , , , , , , , , , Chocolate
+ , ,Butter, , , , , , , , , , , , , Chocolate
+ ,Bread, , , ,Dill, ,IceCream, , , ,Onion,Sugar, Unicorn, Yogurt, 
+Apple, ,Butter,Cheese, , , , , ,Milk, , ,Sugar, , Yogurt, 
+Apple,Bread,Butter, ,Corn, ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+Apple, ,Butter, ,Corn,Dill, ,IceCream, ,Milk, ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , ,Butter, , , ,Eggs,IceCream, , ,Nutmeg, , , , , 
+ , , , ,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+ , , ,Cheese, ,Dill, ,IceCream, , , , , , Unicorn, Yogurt, Chocolate
+Apple, , ,Cheese, , , ,IceCream,KidneyBeans, , , , , , , 
+ , ,Butter, , ,Dill, ,IceCream,KidneyBeans, , ,Onion, , , , 
+ , ,Butter, , , , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, 
+ , , ,Cheese, , , , ,KidneyBeans, , , , , Unicorn, , Chocolate
+ ,Bread, , ,Corn, , , , , , , , , , , 
+ ,Bread, ,Cheese, , , , , , , , , , , Yogurt, 
+Apple,Bread,Butter,Cheese, , , , ,KidneyBeans,Milk, , , , Unicorn, , Chocolate
+Apple, , , , ,Dill,Eggs,IceCream,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , , ,Cheese, , , , , , , ,Onion,Sugar, , , 
+ , , , , , , , ,KidneyBeans, , ,Onion, , , , 
+ ,Bread, ,Cheese, , , ,IceCream, , ,Nutmeg,Onion, , , Yogurt, 
+ ,Bread, , ,Corn, , , , ,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple, ,Butter, , ,Dill, , , , , , , , Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter, , ,Dill,Eggs, , ,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple,Bread,Butter,Cheese, ,Dill, , ,KidneyBeans, ,Nutmeg,Onion, , , , 
+Apple,Bread,Butter, , ,Dill, ,IceCream, ,Milk,Nutmeg, ,Sugar, , Yogurt, 
+ , ,Butter, ,Corn, ,Eggs,IceCream, ,Milk,Nutmeg, , , Unicorn, , Chocolate
+ ,Bread, , ,Corn,Dill, , , ,Milk, ,Onion,Sugar, Unicorn, Yogurt, 
+Apple, ,Butter,Cheese, ,Dill, ,IceCream,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , , ,Cheese, , , , ,KidneyBeans, , , ,Sugar, Unicorn, , 
+Apple, ,Butter, ,Corn,Dill, , , ,Milk,Nutmeg, , , , , 
+ ,Bread, ,Cheese, , ,Eggs,IceCream,KidneyBeans,Milk, , ,Sugar, Unicorn, Yogurt, Chocolate
+ , , ,Cheese, ,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, , , 
+Apple, ,Butter,Cheese, ,Dill, , ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, , 
+ , , , , , , , , , ,Nutmeg, , , , , 
+ , , , , ,Dill, , , , , , , , , , 
+ , ,Butter, ,Corn, , , ,KidneyBeans,Milk,Nutmeg, , , , , 
+Apple,Bread,Butter,Cheese,Corn, , , ,KidneyBeans,Milk,Nutmeg, ,Sugar, , , 
+ ,Bread, ,Cheese, , , , , , ,Nutmeg,Onion,Sugar, , , 
+Apple, , ,Cheese, ,Dill, ,IceCream, , ,Nutmeg,Onion, , , , Chocolate
+ , ,Butter, ,Corn,Dill,Eggs, ,KidneyBeans,Milk, , ,Sugar, , Yogurt, Chocolate
+ , , ,Cheese,Corn, , ,IceCream, , , , ,Sugar, , , 
+ , ,Butter, ,Corn, ,Eggs, ,KidneyBeans,Milk, , , , Unicorn, , 
+ , , , , , , , , , , ,Onion,Sugar, , , 
+ ,Bread,Butter, , , , , ,KidneyBeans, , ,Onion,Sugar, , , 
+ , ,Butter, ,Corn,Dill, ,IceCream, , , ,Onion,Sugar, Unicorn, , 
+ ,Bread,Butter,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk, , ,Sugar, , Yogurt, Chocolate
+Apple, , ,Cheese,Corn, ,Eggs,IceCream, ,Milk,Nutmeg,Onion,Sugar, , , 
+Apple,Bread,Butter, , ,Dill, ,IceCream, ,Milk, , ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread,Butter,Cheese, , ,Eggs,IceCream,KidneyBeans, , , , , , , Chocolate
+ , ,Butter, ,Corn,Dill,Eggs,IceCream,KidneyBeans, , ,Onion, , Unicorn, Yogurt, 
+ ,Bread, ,Cheese, , , ,IceCream, , , , , , , , 
+ , , , , , , ,IceCream, , , , , , , , 
+ , , , , , , ,IceCream,KidneyBeans,Milk, ,Onion,Sugar, , , 
+ ,Bread,Butter, , , ,Eggs,IceCream, , , ,Onion, , , Yogurt, 
+ , , , , , , , , , ,Nutmeg, , , , , 
+ ,Bread, , ,Corn, , , , , ,Nutmeg,Onion, , , , 
+ , , , , , , , , ,Milk, , , , , , 
+ , ,Butter, , ,Dill,Eggs, , ,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+ , ,Butter, ,Corn, , ,IceCream,KidneyBeans, , ,Onion, , , Yogurt, Chocolate
+Apple,Bread, , ,Corn, , ,IceCream, , , , , , Unicorn, , 
+Apple,Bread, , ,Corn, ,Eggs, , ,Milk, , ,Sugar, , Yogurt, Chocolate
+ ,Bread, , ,Corn,Dill,Eggs,IceCream, , , , ,Sugar, , Yogurt, 
+ , , , , , ,Eggs, , , , ,Onion, , , , Chocolate
+ ,Bread, , ,Corn,Dill,Eggs, , , , ,Onion,Sugar, Unicorn, Yogurt, 
+ , ,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans, , ,Onion, , Unicorn, Yogurt, Chocolate
+ , ,Butter, , , ,Eggs, , ,Milk, , , , Unicorn, , 
+ , , , , , ,Eggs, , , , , , , Unicorn, , 
+Apple, , ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , , Chocolate
+ , , , , , , ,IceCream, , , , , , , , 
+Apple, ,Butter,Cheese, , , , , ,Milk,Nutmeg,Onion, , , , 
+ , ,Butter, ,Corn, ,Eggs, , ,Milk, , ,Sugar, , , Chocolate
+ , , , ,Corn, , ,IceCream,KidneyBeans, , ,Onion, , , , 
+ , ,Butter, , , ,Eggs, , , , , ,Sugar, , , 
+Apple,Bread, ,Cheese,Corn, ,Eggs,IceCream, ,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+ ,Bread, , , , ,Eggs, , , , , ,Sugar, , , Chocolate
+ , , ,Cheese, ,Dill, , , , ,Nutmeg, , , , , 
+ ,Bread,Butter, , , ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter, ,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, 
+Apple, , ,Cheese, , , , , ,Milk, , , , , Yogurt, 
+ , , , ,Corn, ,Eggs,IceCream, , , , , , , , 
+ , ,Butter, , , , ,IceCream, , ,Nutmeg, , , Unicorn, Yogurt, 
+Apple,Bread,Butter, ,Corn,Dill, ,IceCream, , ,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ , ,Butter,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans, , , ,Sugar, Unicorn, , 
+ ,Bread, , , , , , , , , , , , Unicorn, , 
+ , , , , , , , , , , ,Onion, , , , 
+ ,Bread, , , , , ,IceCream, , , , , , , , Chocolate
+Apple, , , , , , , , , , ,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread,Butter, ,Corn,Dill, ,IceCream, ,Milk, , ,Sugar, , , 
+ , , ,Cheese,Corn,Dill,Eggs,IceCream, ,Milk, ,Onion, , , , Chocolate
+Apple, ,Butter, ,Corn,Dill, , , ,Milk, , , , , , 
+Apple, ,Butter, , , , , , ,Milk,Nutmeg, , , Unicorn, , 
+ , , ,Cheese, , , , , , , , ,Sugar, , , 
+Apple, , , , ,Dill, ,IceCream, , ,Nutmeg, , , Unicorn, , 
+ ,Bread,Butter, , , , ,IceCream,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, , 
+ , , , , , , , , ,Milk,Nutmeg,Onion,Sugar, , , Chocolate
+ , ,Butter, ,Corn,Dill, ,IceCream, , ,Nutmeg,Onion,Sugar, , , 
+ , ,Butter, , , , , , , ,Nutmeg, , , , , 
+ , ,Butter,Cheese,Corn,Dill,Eggs, , ,Milk, ,Onion, , , , Chocolate
+ , , ,Cheese, , , , , , ,Nutmeg, ,Sugar, , , 
+Apple,Bread, , , ,Dill, ,IceCream,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , , ,Corn,Dill, , , ,Milk, , ,Sugar, , Yogurt, Chocolate
+Apple, ,Butter, , , ,Eggs,IceCream, ,Milk, ,Onion, , , , 
+ ,Bread, ,Cheese, , , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+Apple, ,Butter, , , , , , , , ,Onion, , , , 
+Apple, ,Butter,Cheese,Corn,Dill, ,IceCream, , ,Nutmeg,Onion, , , Yogurt, 
+Apple,Bread,Butter,Cheese, ,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, Chocolate
+ , , ,Cheese,Corn, ,Eggs, , ,Milk, , , , Unicorn, Yogurt, Chocolate
+ , ,Butter,Cheese, , ,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , , Yogurt, 
+Apple,Bread,Butter, , ,Dill,Eggs, , , , , , , , , 
+Apple,Bread,Butter, , ,Dill,Eggs,IceCream, , , , ,Sugar, , Yogurt, Chocolate
+ , ,Butter,Cheese,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, 
+Apple, , , , ,Dill, , ,KidneyBeans, ,Nutmeg, , , , Yogurt, 
+ , ,Butter,Cheese, , ,Eggs, , , ,Nutmeg,Onion, , , , 
+ ,Bread, , , , , , ,KidneyBeans,Milk, , , , , , 
+ ,Bread, , ,Corn, ,Eggs, , ,Milk, , , , , , Chocolate
+ ,Bread,Butter,Cheese,Corn,Dill, ,IceCream, , , , , , , , 
+ , , , ,Corn, , , , , , , , , , , 
+ , ,Butter, , , , ,IceCream,KidneyBeans, ,Nutmeg, , , Unicorn, , Chocolate
+Apple, ,Butter, , , ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+Apple, ,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg, , , , Yogurt, Chocolate
+ ,Bread, ,Cheese, ,Dill, , ,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread,Butter, ,Corn, , , , , ,Nutmeg, ,Sugar, , Yogurt, 
+ ,Bread, ,Cheese, , ,Eggs, , , ,Nutmeg, ,Sugar, , Yogurt, 
+Apple,Bread, ,Cheese,Corn, ,Eggs, ,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , , , , , , , , , , , , , , 
+Apple,Bread, ,Cheese, ,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , Unicorn, , Chocolate
+Apple,Bread, ,Cheese,Corn,Dill, ,IceCream, ,Milk, , , , , , 
+ , , ,Cheese, ,Dill,Eggs, ,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread, , , , ,Eggs, , ,Milk, , , , , , Chocolate
+ , , , , ,Dill,Eggs, , ,Milk, , , , Unicorn, Yogurt, Chocolate
+ , , ,Cheese, , , , , , , , , , Unicorn, , Chocolate
+Apple, , ,Cheese, , , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , , Chocolate
+Apple, , ,Cheese,Corn,Dill, , ,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, 
+ ,Bread,Butter,Cheese,Corn, ,Eggs,IceCream,KidneyBeans,Milk, ,Onion, , , Yogurt, Chocolate
+ ,Bread,Butter, ,Corn, , ,IceCream, , ,Nutmeg,Onion,Sugar, , , 
+Apple, , ,Cheese, ,Dill, ,IceCream, , , , , , , , Chocolate
+ ,Bread, ,Cheese,Corn, , ,IceCream, , ,Nutmeg, ,Sugar, , , Chocolate
+ , , , , , ,Eggs,IceCream,KidneyBeans, , , , , Unicorn, Yogurt, 
+Apple, ,Butter, , , , ,IceCream,KidneyBeans,Milk, , ,Sugar, Unicorn, , 
+Apple, ,Butter, ,Corn, , , ,KidneyBeans,Milk,Nutmeg, ,Sugar, , Yogurt, 
+ ,Bread, ,Cheese, ,Dill, ,IceCream, ,Milk, , , , Unicorn, Yogurt, 
+ , , , ,Corn, ,Eggs, , , , , , , , Yogurt, Chocolate
+ ,Bread,Butter, ,Corn,Dill, , ,KidneyBeans,Milk,Nutmeg, , , Unicorn, , Chocolate
+ ,Bread,Butter, ,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , , 
+Apple,Bread, , , ,Dill, ,IceCream, ,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+ , , , , , , ,IceCream, , , , , , , , 
+ , , , ,Corn,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg, ,Sugar, , , 
+Apple, , ,Cheese, , ,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , , , Chocolate
+ ,Bread, , , , ,Eggs, , , , , , , , , 
+ ,Bread,Butter, ,Corn, ,Eggs,IceCream, ,Milk, , , , , , Chocolate
+Apple, , , ,Corn, , ,IceCream, , , , , , , Yogurt, 
+ , ,Butter,Cheese, , , , ,KidneyBeans,Milk,Nutmeg, ,Sugar, , Yogurt, 
+Apple, ,Butter, ,Corn,Dill,Eggs,IceCream,KidneyBeans, , , , , Unicorn, , Chocolate
+ ,Bread,Butter, , , , , , , , ,Onion, , Unicorn, , 
+Apple,Bread, , ,Corn, ,Eggs,IceCream,KidneyBeans,Milk, ,Onion, , Unicorn, Yogurt, 
+Apple,Bread, , , ,Dill,Eggs, , ,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+ , , , ,Corn,Dill, , , , , , , , , , 
+ , ,Butter, , ,Dill, , ,KidneyBeans,Milk, , , , , , 
+ , ,Butter,Cheese,Corn, ,Eggs,IceCream, , , , ,Sugar, , , 
+Apple,Bread, ,Cheese, ,Dill, , ,KidneyBeans,Milk,Nutmeg, , , , Yogurt, 
+Apple, , ,Cheese, , , , ,KidneyBeans,Milk,Nutmeg, , , , , 
+Apple,Bread, , ,Corn, , , ,KidneyBeans,Milk, ,Onion, , , , 
+Apple, , , ,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , , , Chocolate
+ , , , , , , , ,KidneyBeans,Milk, ,Onion, , , Yogurt, Chocolate
+ ,Bread, , , , , , , , , , , , Unicorn, , 
+ , , , , ,Dill, , , , , , , , , , 
+ , ,Butter, , ,Dill,Eggs,IceCream, ,Milk,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ ,Bread, , , , , , , , ,Nutmeg, , , , , Chocolate
+ ,Bread,Butter,Cheese,Corn, , ,IceCream, , , , ,Sugar, , , 
+Apple, ,Butter, , , ,Eggs, , ,Milk, ,Onion, , Unicorn, Yogurt, 
+Apple,Bread, , , , , ,IceCream, , , , ,Sugar, Unicorn, , 
+Apple,Bread,Butter, ,Corn,Dill, ,IceCream,KidneyBeans, , , , , Unicorn, Yogurt, Chocolate
+ , , , , , ,Eggs, , , , , , , , , Chocolate
+Apple, , , ,Corn, ,Eggs, , , , , , , Unicorn, , Chocolate
+Apple, , , ,Corn, , , , ,Milk, , , , , Yogurt, Chocolate
+Apple,Bread,Butter, ,Corn, , , , ,Milk, , , , , Yogurt, Chocolate
+ , , ,Cheese, , , , , , ,Nutmeg, , , Unicorn, , 
+ , , ,Cheese,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg, ,Sugar, , , 
+Apple, , ,Cheese,Corn,Dill,Eggs, ,KidneyBeans,Milk, ,Onion,Sugar, , , Chocolate
+ ,Bread,Butter,Cheese, , , , , ,Milk, , , , , Yogurt, Chocolate
+ , ,Butter,Cheese, ,Dill,Eggs,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+Apple, ,Butter,Cheese,Corn,Dill, , , ,Milk, ,Onion, , , , Chocolate
+ , ,Butter,Cheese, ,Dill,Eggs, , , , , ,Sugar, , , 
+ , , , ,Corn, ,Eggs,IceCream, ,Milk,Nutmeg, , , , , 
+ ,Bread, , , , ,Eggs, , , ,Nutmeg, , , , , 
+ , , , , , , , , ,Milk, , , , , , 
+Apple,Bread, , , ,Dill, , ,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, Chocolate
+Apple, ,Butter, , , ,Eggs,IceCream, ,Milk,Nutmeg, , , Unicorn, , Chocolate
+ , , ,Cheese, , , , , , ,Nutmeg, , , Unicorn, Yogurt, Chocolate
+ , , ,Cheese, , , , , , , , , , , , 
+Apple, , , ,Corn,Dill, , , ,Milk, , , , , Yogurt, 
+ ,Bread,Butter,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk, ,Onion, , , Yogurt, 
+Apple, ,Butter,Cheese, ,Dill,Eggs,IceCream, ,Milk,Nutmeg,Onion,Sugar, , , 
+Apple, ,Butter, ,Corn, ,Eggs,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+ , , ,Cheese, , ,Eggs,IceCream, , , ,Onion, , , , 
+ , , , , , , , , ,Milk,Nutmeg, , , , , Chocolate
+ ,Bread, , , ,Dill, , ,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+ , , ,Cheese, ,Dill, , , , , , , , , Yogurt, 
+Apple, ,Butter,Cheese,Corn, , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , , Chocolate
+ ,Bread, ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans,Milk, , , , Unicorn, , Chocolate
+Apple,Bread, , , , ,Eggs,IceCream,KidneyBeans,Milk, ,Onion, , Unicorn, , Chocolate
+ ,Bread, , , , , , ,KidneyBeans, , , , , , , Chocolate
+Apple,Bread,Butter,Cheese,Corn,Dill, , , , , ,Onion, , , Yogurt, 
+ , ,Butter, , , , , , ,Milk, ,Onion,Sugar, , Yogurt, 
+Apple,Bread,Butter, , ,Dill,Eggs,IceCream,KidneyBeans,Milk, ,Onion, , Unicorn, Yogurt, 
+ ,Bread,Butter, , ,Dill, ,IceCream, ,Milk,Nutmeg,Onion,Sugar, , Yogurt, 
+ , ,Butter,Cheese, , ,Eggs, ,KidneyBeans,Milk,Nutmeg, , , , , Chocolate
+ , , ,Cheese, , , ,IceCream, ,Milk,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread,Butter, , ,Dill,Eggs, , ,Milk, ,Onion, , , , Chocolate
+ ,Bread, ,Cheese, , ,Eggs, ,KidneyBeans, ,Nutmeg, , , , , 
+ ,Bread, ,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, , Yogurt, 
+ ,Bread,Butter, , , , ,IceCream, , , ,Onion, , , , Chocolate
+ ,Bread,Butter, , ,Dill, , , , ,Nutmeg,Onion,Sugar, , , Chocolate
+Apple, ,Butter,Cheese, , , ,IceCream,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, 
+ ,Bread,Butter,Cheese, , , , , , ,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+Apple, , ,Cheese,Corn, ,Eggs, , , ,Nutmeg,Onion, , , , 
+ , , ,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg, , , , Yogurt, 
+Apple,Bread,Butter,Cheese,Corn,Dill,Eggs, ,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+ , , , , ,Dill, ,IceCream, , ,Nutmeg, , , , , 
+Apple,Bread,Butter, , , ,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, Chocolate
+ , , , ,Corn,Dill,Eggs,IceCream,KidneyBeans, ,Nutmeg, , , , , Chocolate
+ , , ,Cheese,Corn, , ,IceCream,KidneyBeans,Milk, ,Onion, , Unicorn, Yogurt, 
+ , , , , , ,Eggs, , , , ,Onion, , , , Chocolate
+ , , , ,Corn, , , ,KidneyBeans,Milk, , , , Unicorn, Yogurt, 
+ , , , , , , , ,KidneyBeans, ,Nutmeg, ,Sugar, , , Chocolate
+Apple, , ,Cheese, ,Dill,Eggs, ,KidneyBeans,Milk, , , , Unicorn, Yogurt, 
+Apple,Bread, , ,Corn, , ,IceCream,KidneyBeans, , , ,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread, , , ,Dill, ,IceCream, ,Milk, ,Onion, , Unicorn, Yogurt, Chocolate
+ , ,Butter, , , , , , , , , , , Unicorn, , 
+ , ,Butter, , ,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+Apple,Bread,Butter, ,Corn,Dill, , ,KidneyBeans,Milk, ,Onion,Sugar, , , 
+ , , , , , , , , ,Milk, , , , Unicorn, , 
+ ,Bread, ,Cheese, ,Dill,Eggs, , , , ,Onion,Sugar, , , 
+Apple, ,Butter,Cheese, ,Dill, , , , ,Nutmeg, , , , , 
+ , , , , , ,Eggs, , , ,Nutmeg, , , Unicorn, Yogurt, 
+ , , ,Cheese, ,Dill,Eggs, , , , ,Onion, , , Yogurt, 
+ , , , , , ,Eggs, , , , , , , , , 
+ , , , , , ,Eggs, , , , , ,Sugar, Unicorn, , 
+ , , , , ,Dill,Eggs, , , , , ,Sugar, Unicorn, , 
+ , , ,Cheese, , ,Eggs, , , , , , , , , 
+ ,Bread, ,Cheese, , ,Eggs, , , , , , , Unicorn, , 
+ ,Bread,Butter, ,Corn, , , , , , , ,Sugar, , , Chocolate
+ , ,Butter,Cheese,Corn, ,Eggs, , , ,Nutmeg, ,Sugar, Unicorn, Yogurt, 
+Apple, , ,Cheese, , ,Eggs, ,KidneyBeans, , , ,Sugar, , Yogurt, 
+Apple,Bread, ,Cheese,Corn,Dill,Eggs, , , ,Nutmeg, ,Sugar, , Yogurt, 
+ , , ,Cheese, ,Dill, , ,KidneyBeans,Milk, , ,Sugar, , , Chocolate
+ ,Bread, , , ,Dill, ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , 
+ , , , , , , , , , , , , , Unicorn, , 
+ , , , , , ,Eggs,IceCream,KidneyBeans, , , , , , , Chocolate
+ , ,Butter,Cheese,Corn, , , , ,Milk,Nutmeg, ,Sugar, , Yogurt, 
+ , , , , , , ,IceCream, , , , , , , , 
+ , , , , , , , ,KidneyBeans, , , , , , , 
+ , , , , , , ,IceCream, , , ,Onion, , , Yogurt, 
+ ,Bread,Butter, ,Corn, ,Eggs,IceCream, ,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+Apple, ,Butter, ,Corn,Dill, , , ,Milk, ,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread,Butter,Cheese,Corn, , , ,KidneyBeans, ,Nutmeg, ,Sugar, , , 
+ , ,Butter,Cheese,Corn, ,Eggs,IceCream, ,Milk, , ,Sugar, Unicorn, , 
+ ,Bread, , , ,Dill, ,IceCream, ,Milk, , , , , , 
+Apple,Bread,Butter,Cheese, , ,Eggs, , ,Milk,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+Apple, , , , , ,Eggs, , , , ,Onion, , , Yogurt, 
+ , ,Butter, , ,Dill,Eggs, ,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ ,Bread, ,Cheese, , ,Eggs,IceCream, ,Milk,Nutmeg,Onion,Sugar, , Yogurt, 
+ , , , ,Corn,Dill,Eggs, , ,Milk,Nutmeg, ,Sugar, Unicorn, , 
+ , ,Butter,Cheese, ,Dill, , ,KidneyBeans, , ,Onion, , Unicorn, , Chocolate
+ ,Bread, ,Cheese,Corn,Dill,Eggs,IceCream, , ,Nutmeg, , , , Yogurt, Chocolate
+Apple,Bread, , , , , , ,KidneyBeans, , , ,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , , , ,Dill,Eggs, , ,Milk,Nutmeg, , , , , Chocolate
+ , , , , , , , , ,Milk, , , , Unicorn, , 
+ , , , , , ,Eggs, , , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+Apple,Bread, , , , , , , , , ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , , ,Cheese, , , , , , , , , , , Yogurt, 
+Apple, , ,Cheese, , , , ,KidneyBeans,Milk, , ,Sugar, , Yogurt, Chocolate
+ ,Bread, ,Cheese,Corn, , ,IceCream, , ,Nutmeg, ,Sugar, , , Chocolate
+ , , ,Cheese,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg,Onion, , Unicorn, , 
+ , , , , , ,Eggs, ,KidneyBeans, , , , , , , 
+ , , , ,Corn, ,Eggs,IceCream, , , ,Onion,Sugar, , , 
+ , , , , , , , , , , , ,Sugar, , , 
+ ,Bread,Butter, ,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , , Chocolate
+ , ,Butter, ,Corn, , , , , , , , , , , Chocolate
+Apple, , , , , ,Eggs, , , , , ,Sugar, , Yogurt, Chocolate
+ , ,Butter, , , , , ,KidneyBeans, , , ,Sugar, , , Chocolate
+ ,Bread,Butter,Cheese, ,Dill,Eggs, , ,Milk,Nutmeg, , , Unicorn, , Chocolate
+ ,Bread, , , ,Dill,Eggs, , , ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+ , ,Butter, , , , ,IceCream, ,Milk, , , , Unicorn, , Chocolate
+ ,Bread, ,Cheese,Corn, ,Eggs, , ,Milk,Nutmeg, ,Sugar, , , Chocolate
+ , , ,Cheese, , , ,IceCream,KidneyBeans, , , ,Sugar, , Yogurt, Chocolate
+Apple, ,Butter, , ,Dill, , ,KidneyBeans, , , , , , , 
+Apple,Bread, , , ,Dill, , ,KidneyBeans,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+ ,Bread, ,Cheese,Corn,Dill, ,IceCream, ,Milk, ,Onion, , Unicorn, , Chocolate
+ , , , , , ,Eggs,IceCream, , , ,Onion,Sugar, , , 
+Apple, ,Butter,Cheese, ,Dill, , , , , ,Onion, , Unicorn, Yogurt, 
+Apple, ,Butter, ,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk, , , , Unicorn, , Chocolate
+ ,Bread, , , , , ,IceCream, , ,Nutmeg,Onion,Sugar, , Yogurt, 
+Apple, ,Butter, , ,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion, , Unicorn, , 
+ ,Bread,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg, , , Unicorn, Yogurt, 
+ , ,Butter, , , , , , , , , , , , , 
+ , , , , , ,Eggs, , , , , , , , , 
+ ,Bread, ,Cheese,Corn, , , , , , , , , , , 
+Apple,Bread, , , ,Dill,Eggs, ,KidneyBeans,Milk, , ,Sugar, Unicorn, Yogurt, 
+Apple, ,Butter, ,Corn, , , , , , , , , , , 
+ ,Bread, ,Cheese,Corn, ,Eggs,IceCream,KidneyBeans,Milk, , ,Sugar, Unicorn, , 
+Apple, ,Butter, ,Corn, ,Eggs, ,KidneyBeans,Milk, , , , , , Chocolate
+Apple, ,Butter,Cheese, , , ,IceCream,KidneyBeans,Milk, , , , , , 
+ ,Bread, , , ,Dill, ,IceCream, , ,Nutmeg,Onion,Sugar, , Yogurt, 
+ , , , , , , , , , , ,Onion, , , , 
+ ,Bread,Butter,Cheese, , , ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, , 
+Apple, ,Butter,Cheese, , ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ ,Bread, , ,Corn,Dill,Eggs, , , ,Nutmeg,Onion,Sugar, , , Chocolate
+ , ,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk, , ,Sugar, , , Chocolate
+Apple, ,Butter,Cheese,Corn, ,Eggs,IceCream, ,Milk, ,Onion, , Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter,Cheese, , ,Eggs, , , ,Nutmeg, , , , Yogurt, Chocolate
+ , ,Butter, , , ,Eggs, , , , , , , , , 
+Apple, , , ,Corn, ,Eggs, , ,Milk, , , , Unicorn, Yogurt, Chocolate
+ , , , ,Corn,Dill,Eggs,IceCream, , , , ,Sugar, , Yogurt, 
+Apple,Bread, , , , ,Eggs, , , ,Nutmeg,Onion, , , , 
+ , , , , ,Dill, , ,KidneyBeans, , ,Onion,Sugar, , Yogurt, 
+Apple,Bread,Butter,Cheese,Corn, , ,IceCream, , , ,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread, ,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, , Chocolate
+Apple, , , , , ,Eggs,IceCream, , , , , , , Yogurt, 
+ , , , , , ,Eggs, , ,Milk, , , , , , 
+Apple, , , , , ,Eggs,IceCream, ,Milk,Nutmeg, , , Unicorn, Yogurt, Chocolate
+Apple,Bread,Butter, , , , , , , , ,Onion, , Unicorn, , 
+ , , , ,Corn, , , , ,Milk, , ,Sugar, , , 
+Apple,Bread,Butter,Cheese, ,Dill, ,IceCream,KidneyBeans, ,Nutmeg, , , Unicorn, , Chocolate
+Apple,Bread,Butter, , , ,Eggs, , , , , , , Unicorn, , 
+Apple, ,Butter, , , , ,IceCream, , , ,Onion, , , Yogurt, Chocolate
+Apple, ,Butter,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans, , ,Onion,Sugar, Unicorn, Yogurt, 
+ ,Bread, ,Cheese, ,Dill,Eggs, , ,Milk, ,Onion, , Unicorn, Yogurt, Chocolate
+ ,Bread,Butter, ,Corn, , ,IceCream,KidneyBeans, , ,Onion, , Unicorn, , Chocolate
+ , ,Butter, , ,Dill, ,IceCream, ,Milk,Nutmeg,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread, , ,Corn,Dill,Eggs, , , , , , , , , Chocolate
+Apple,Bread, , ,Corn, ,Eggs, , ,Milk, , , , , , 
+ , ,Butter, , , ,Eggs,IceCream,KidneyBeans, , , ,Sugar, , , Chocolate
+ ,Bread, ,Cheese,Corn, ,Eggs,IceCream,KidneyBeans, , , ,Sugar, , Yogurt, 
+ ,Bread, , , ,Dill, , , ,Milk, ,Onion,Sugar, , Yogurt, 
+Apple,Bread, ,Cheese,Corn, , ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread, ,Cheese, ,Dill, ,IceCream, ,Milk, ,Onion,Sugar, , Yogurt, Chocolate
+ , ,Butter,Cheese,Corn,Dill, , , ,Milk,Nutmeg,Onion,Sugar, , , 
+ , , ,Cheese, , , , , , , , , , , Yogurt, 
+ , , , , , ,Eggs, ,KidneyBeans, , , , , , Yogurt, 
+ ,Bread, ,Cheese, , , , ,KidneyBeans, ,Nutmeg,Onion, , , Yogurt, 
+Apple,Bread,Butter, , , , , , , , , ,Sugar, , Yogurt, 
+ , , , , , ,Eggs, , , , ,Onion, , Unicorn, , Chocolate
+ ,Bread,Butter,Cheese,Corn,Dill, ,IceCream,KidneyBeans,Milk, ,Onion, , , Yogurt, Chocolate
+ , , ,Cheese,Corn, , ,IceCream,KidneyBeans, ,Nutmeg,Onion, , Unicorn, , Chocolate
+ ,Bread,Butter, , , ,Eggs,IceCream, ,Milk,Nutmeg,Onion,Sugar, Unicorn, , 
+ ,Bread, ,Cheese,Corn, , , , ,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+ , , ,Cheese, , , , ,KidneyBeans, , , ,Sugar, , , 
+Apple, ,Butter, , ,Dill,Eggs, , ,Milk,Nutmeg,Onion, , Unicorn, Yogurt, 
+Apple,Bread,Butter, , ,Dill,Eggs,IceCream,KidneyBeans,Milk, , ,Sugar, , , 
+ , , ,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk, , , , , Yogurt, Chocolate
+Apple,Bread,Butter, ,Corn, ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , , 
+Apple, , ,Cheese, , ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+Apple,Bread,Butter,Cheese, ,Dill,Eggs, ,KidneyBeans,Milk, , ,Sugar, , , Chocolate
+ , ,Butter, , , , ,IceCream, , , , , , , , 
+ ,Bread,Butter,Cheese,Corn, , ,IceCream,KidneyBeans,Milk, , ,Sugar, , , Chocolate
+Apple, , , , , ,Eggs, , , , , , , , , 
+Apple, ,Butter, , ,Dill, , , ,Milk, , ,Sugar, Unicorn, , Chocolate
+ ,Bread,Butter,Cheese,Corn,Dill, , ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+ , ,Butter,Cheese, , , ,IceCream,KidneyBeans, ,Nutmeg, , , Unicorn, Yogurt, 
+Apple, , ,Cheese,Corn,Dill,Eggs, ,KidneyBeans,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+Apple,Bread, ,Cheese, , , , ,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , 
+ ,Bread, , ,Corn, ,Eggs, ,KidneyBeans, , ,Onion, , , , 
+Apple,Bread,Butter,Cheese,Corn, , ,IceCream, , , ,Onion, , Unicorn, , Chocolate
+Apple, ,Butter, ,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , , 
+ , , , ,Corn,Dill, , , , , , , , , , 
+Apple,Bread, , ,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , , 
+Apple,Bread,Butter, , , , , ,KidneyBeans,Milk, ,Onion, , Unicorn, Yogurt, 
+ , ,Butter, ,Corn,Dill, ,IceCream, , ,Nutmeg,Onion, , , , Chocolate
+ ,Bread,Butter,Cheese,Corn, , ,IceCream, , , ,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , ,Butter, , ,Dill,Eggs, , , ,Nutmeg, ,Sugar, , Yogurt, 
+ , ,Butter, ,Corn,Dill,Eggs, , , ,Nutmeg,Onion, , , , 
+ , ,Butter, ,Corn, ,Eggs, ,KidneyBeans, ,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+ , , , , , , , , ,Milk,Nutmeg, ,Sugar, , , 
+Apple,Bread, ,Cheese,Corn, , , ,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+Apple, , , ,Corn,Dill, ,IceCream,KidneyBeans,Milk, , , , Unicorn, , Chocolate
+ , ,Butter, , ,Dill,Eggs, ,KidneyBeans, , , , , , Yogurt, 
+ ,Bread,Butter, , , , ,IceCream,KidneyBeans,Milk, , , , Unicorn, , 
+ , ,Butter, ,Corn,Dill, ,IceCream, ,Milk, ,Onion, , Unicorn, , Chocolate
+ , , , , , , ,IceCream, , ,Nutmeg,Onion, , , , Chocolate
+Apple,Bread,Butter, , , , ,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, Unicorn, Yogurt, Chocolate
+ , ,Butter, , , , ,IceCream,KidneyBeans, , , ,Sugar, Unicorn, , 
+ , ,Butter, , ,Dill,Eggs,IceCream, ,Milk,Nutmeg, , , Unicorn, Yogurt, Chocolate
+Apple,Bread, ,Cheese, , , , , , ,Nutmeg,Onion, , , , 
+Apple,Bread, , ,Corn, , ,IceCream, , ,Nutmeg,Onion,Sugar, Unicorn, , 
+Apple, ,Butter,Cheese,Corn,Dill, , , , ,Nutmeg, ,Sugar, , Yogurt, Chocolate
+Apple,Bread, , ,Corn,Dill,Eggs, ,KidneyBeans,Milk, , , , , Yogurt, Chocolate
+ , , ,Cheese, , , , ,KidneyBeans, , ,Onion, , , , Chocolate
+ , , ,Cheese, ,Dill, , , ,Milk,Nutmeg, , , , , Chocolate
+ , , ,Cheese, , ,Eggs, , , , ,Onion,Sugar, Unicorn, Yogurt, 
+Apple, , , , ,Dill, , ,KidneyBeans,Milk, , , , , , 
+Apple,Bread,Butter,Cheese,Corn,Dill,Eggs, , ,Milk, , , , Unicorn, Yogurt, Chocolate
+ , ,Butter, ,Corn, , , , , , , , , , , 
+ ,Bread,Butter,Cheese, , , , ,KidneyBeans, ,Nutmeg, ,Sugar, Unicorn, , Chocolate
+Apple, ,Butter,Cheese, , ,Eggs, , , , ,Onion,Sugar, , Yogurt, 
+Apple,Bread, ,Cheese, ,Dill,Eggs,IceCream, ,Milk, ,Onion, , Unicorn, Yogurt, Chocolate
+ ,Bread, , ,Corn, , , , , , , , , Unicorn, , 
+Apple, , ,Cheese,Corn,Dill,Eggs, ,KidneyBeans, , ,Onion,Sugar, Unicorn, , Chocolate
+ , , , , , ,Eggs, ,KidneyBeans, ,Nutmeg, , , , Yogurt, 
+ ,Bread,Butter, , ,Dill, ,IceCream,KidneyBeans, , , ,Sugar, , , 
+Apple, , , , ,Dill, , , ,Milk, , ,Sugar, Unicorn, , 
+ , , , , ,Dill, , , , ,Nutmeg, , , , , 
+ ,Bread,Butter,Cheese,Corn, ,Eggs, ,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, , 
+ ,Bread, , , , , ,IceCream, , , , , , Unicorn, , 
+Apple,Bread,Butter,Cheese,Corn,Dill, ,IceCream,KidneyBeans, ,Nutmeg,Onion,Sugar, , , 
+ ,Bread,Butter, ,Corn,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, , Yogurt, 
+ ,Bread,Butter,Cheese,Corn, , , , ,Milk, , , , , , Chocolate
+ ,Bread, ,Cheese, , , , , ,Milk, , , , Unicorn, Yogurt, Chocolate
+Apple, , ,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, , 
+Apple, , , , ,Dill, ,IceCream,KidneyBeans, , , , , , , 
+ , , ,Cheese,Corn,Dill,Eggs,IceCream,KidneyBeans,Milk, , ,Sugar, , , 
+ ,Bread,Butter, ,Corn, ,Eggs, ,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+Apple, , , ,Corn,Dill,Eggs, , ,Milk, , ,Sugar, , , 
+ , , , , , ,Eggs, , , , , , , , , 
+Apple, , ,Cheese, ,Dill, ,IceCream,KidneyBeans,Milk, ,Onion,Sugar, Unicorn, Yogurt, 
+Apple,Bread, ,Cheese,Corn, ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, , , , Yogurt, 
+ ,Bread, ,Cheese, , ,Eggs, ,KidneyBeans, , , ,Sugar, Unicorn, Yogurt, Chocolate
+Apple,Bread, , , , , , ,KidneyBeans,Milk,Nutmeg, ,Sugar, Unicorn, Yogurt, Chocolate
+ ,Bread,Butter,Cheese, , , ,IceCream,KidneyBeans, ,Nutmeg, , , , Yogurt, Chocolate
+ , ,Butter, , , ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+Apple, ,Butter, ,Corn, , ,IceCream, , ,Nutmeg, , , Unicorn, , 
+Apple,Bread,Butter, ,Corn, , ,IceCream, , ,Nutmeg,Onion, , , , Chocolate
+ ,Bread,Butter, ,Corn, ,Eggs,IceCream,KidneyBeans,Milk,Nutmeg, , , Unicorn, Yogurt, 
+Apple, ,Butter, ,Corn,Dill, , , ,Milk,Nutmeg,Onion, , Unicorn, Yogurt, Chocolate
+Apple, ,Butter, , ,Dill, , ,KidneyBeans,Milk,Nutmeg, , , Unicorn, , Chocolate
+ , ,Butter, ,Corn,Dill, , , , , , , , Unicorn, Yogurt, 
+ ,Bread,Butter, , ,Dill, ,IceCream,KidneyBeans,Milk,Nutmeg,Onion, , , Yogurt, Chocolate
+ , , , ,Corn, , , , ,Milk,Nutmeg,Onion,Sugar, , Yogurt, Chocolate
+ ,Bread,Butter,Cheese, ,Dill,Eggs,IceCream,KidneyBeans, , , , , Unicorn, , Chocolate
+ , , , , , , , , , , , , , , Yogurt, 
+ ,Bread, , , , , ,IceCream, , , , , , , , Chocolate
+ ,Bread,Butter,Cheese,Corn, , ,IceCream,KidneyBeans,Milk,Nutmeg, ,Sugar, , , 
+ , ,Butter, , , , , , , , ,Onion, , , , 
+ , ,Butter, , , , , , , , ,Onion, , , Yogurt, Chocolate
+Apple,Bread,Butter, ,Corn, ,Eggs,IceCream,KidneyBeans, ,Nutmeg, , , Unicorn, Yogurt, Chocolate
+ , , , ,Corn,Dill, , , , , ,Onion, , , , 
+Apple, , , , , ,Eggs, ,KidneyBeans,Milk, , , , , , 
+Apple, ,Butter,Cheese, ,Dill,Eggs,IceCream,KidneyBeans, , , ,Sugar, Unicorn, , Chocolate
+ ,Bread, ,Cheese, ,Dill,Eggs,IceCream,KidneyBeans,Milk,Nutmeg,Onion,Sugar, Unicorn, Yogurt, 
+ , , , , , , , , , ,Nutmeg, ,Sugar, , , 
+Apple,Bread,Butter, , , , ,IceCream, ,Milk,Nutmeg, , , Unicorn, , 
+Apple,Bread, , ,Corn,Dill, , ,KidneyBeans, , ,Onion,Sugar, , Yogurt, Chocolate
+ , , , , , ,Eggs, , , , , , , , , 
+ , ,Butter,Cheese, , ,Eggs, , ,Milk,Nutmeg,Onion,Sugar, Unicorn, , 
+ ,Bread, , , ,Dill, ,IceCream, ,Milk,Nutmeg, , , Unicorn, , Chocolate
+Apple, ,Butter, ,Corn, , ,IceCream,KidneyBeans, , , ,Sugar, , , 
+ , ,Butter, , ,Dill, , , , , ,Onion,Sugar, Unicorn, , Chocolate
+ ,Bread, , , , ,Eggs, , , , , , , Unicorn, , Chocolate
+Apple, , , ,Corn, , , ,KidneyBeans,Milk,Nutmeg, , , , Yogurt, 
+Apple, , , ,Corn,Dill, , , , , , ,Sugar, , , Chocolate
+ , ,Butter,Cheese,Corn, ,Eggs,IceCream,KidneyBeans, ,Nutmeg, ,Sugar, , Yogurt, Chocolate
+ , , , , , , , , ,Milk, , , , , , Chocolate
